@@ -429,8 +429,8 @@ img{
     margin: 0;
 }
 #templatemo_footer a {
-    text-decoration: underline;
-    color: #333333;
+    /*text-decoration: underline;
+    color: #333333;*/
 }
 /*  Extra small devices (phones, less than 768px)  */
 @media (max-width: 768px ) { 
